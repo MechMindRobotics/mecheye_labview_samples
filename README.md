@@ -4,7 +4,7 @@ This documentation provides descriptions of the other LabVIEW VI samples and ins
 
 ## Sample List
 
-The following VI samples are provided. These VI samples use C# Mech-Eye API to realize the corresponding functions. [Mech-Eye API Reference](https://docs.mech-mind.net/api-reference/eye-api-camera-cpp/2.2.0/index.html) provides explanations of Mech-Eye API.
+The following VI samples are provided. These VI samples use C# Mech-Eye API to realize the corresponding functions. [Mech-Eye API Reference](https://docs.mech-mind.net/en/eye-3d-camera/latest/api/api-reference.html) provides explanations of Mech-Eye API.
 
 * **BasicDemo**  
   (For LabVIEW Base) Demonstrates how to use some of the VI samples to connect to a camera, adjust parameters, and acquire the 2D image and depth map.
