@@ -77,3 +77,5 @@ Follow these steps to use the **BasicDemo** or **Demo** VI sample:
 7. In the **Parameters** tab, you can modify the parameter values, and then click the **Set Parameters** button in the lower right to set the values to the camera.
 8. Go back to the **Connect & Capture** tab and click on the **Capture Once** button to obtain the 2D and 3D data once. The obtained data are displayed to the right.
 9. Click the **Disconnect** button to disconnect from the camera. The VI sample is also stopped.
+
+  > 💡 **If LabView cannot connect with the device and prompts Error 1172，try to copy the following files: MechEyeApi.dll, MechEyeApiWrapper.dll, MechEyeApiNet.dll, and SkiaSharp.dll, and paste them to the sample folder of LabView .vi files.**
